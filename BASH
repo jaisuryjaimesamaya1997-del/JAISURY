@@ -1,0 +1,11 @@
+git init
+git status
+git add .
+git commit -m "Actividad semana 1"
+git push
+git pull
+pwd
+ls
+cd
+mkdir
+git log
