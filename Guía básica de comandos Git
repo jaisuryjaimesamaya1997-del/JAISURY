@@ -1,0 +1,19 @@
+Guía básica de comandos Git
+
+git init
+Inicializa repositorio
+
+git add .
+Agrega cambios
+
+git commit -m "mensaje"
+Registra cambios
+
+git status
+Verifica estado
+
+git push
+Publica cambios
+
+git pull
+Actualiza repositorio
