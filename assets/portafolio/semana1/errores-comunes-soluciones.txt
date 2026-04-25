@@ -1,0 +1,6 @@
+semana1/
+preguntas-semana1.txt
+reflexion-semana1.txt
+algoritmo-semana1.txt
+guia-comandos-git.txt
+errores-comunes-soluciones.txt
