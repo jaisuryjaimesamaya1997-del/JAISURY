@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Programadores para la Paz</title>
+<meta charset="UTF-8">
+</head>
+<body>
+
+<h1>Portafolio Académico</h1>
+
+<h2>Jaisury Jaimes Amaya</h2>
+
+<p>Estudiante en formación en democracia, tecnología y desarrollo web.</p>
+
+<h3>Contenidos</h3>
+<ul>
+<li>Semana 1</li>
+<li>Ciudadanía digital</li>
+<li>Algoritmia</li>
+<li>Git y GitHub</li>
+<li>Bitácora de aprendizaje</li>
+</ul>
+
+<h3>Objetivos</h3>
+<p>
+Fortalecer competencias digitales y desarrollar bases en programación web.
+</p>
+
+<h3>Estado</h3>
+<p>Portafolio académico en construcción.</p>
+
+</body>
+</html>
